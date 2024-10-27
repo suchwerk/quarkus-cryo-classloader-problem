@@ -1,4 +1,4 @@
-# quarkus-cryo-classloader-problem
+# quarkus-kcryo-classloader-problem
 
 ## Problem
 
